@@ -33,5 +33,6 @@ This repository showcases the work done as part of the BCG Data Science Job Simu
 - **Scikit-learn**: For model evaluation and hyperparameter tuning.
 
 ## Results
-- The churn prediction model achieved Accuracy of 99%	f1 score of 0.98.
+- The churn prediction model achieved Accuracy of 99%	f1-score of 0.98.
 - Key insights were provided to help PowerCo better understand and address customer churn.
+
