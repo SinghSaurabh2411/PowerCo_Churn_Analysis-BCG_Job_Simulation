@@ -1,4 +1,3 @@
-# PowerCo_Churn_Analysis-BCG_Job_Simulation
 # PowerCo Churn Analysis - BCG Data Science Job Simulation
 
 This repository showcases the work done as part of the BCG Data Science Job Simulation, focusing on predicting customer churn for PowerCo. The goal was to analyze customer data, build a predictive model, and provide actionable insights.
